@@ -3,20 +3,14 @@
 ## VS Code, Git, and Github Setup
 
 1. Install VS Code From [VS Code Download](https://code.visualstudio.com/Download)
-
-
+    - Install GitLens Extension<br>
+      This extension provides a set of useful visual tools within VS Code for working with Git
 
 2. Install Git From [Git Download](https://git-scm.com/)
-
-
+    - Install Git globally<br>
+      This can be checked by opening a command line prompt and entering the command: <b>git version</b>
 
 3. Create a Github Account Here [Github](https://github.com)
-
-
-
-4. Putting It All Together
-
-
 
 ## Glossary of Git Related Terms
 
